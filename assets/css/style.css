@@ -1,0 +1,50 @@
+body {
+    font-family: 'Cabin';
+    margin: 0;
+}
+
+.row {
+    padding-top: 3rem;
+}
+
+.navbar {
+    background-color: #373A3C;
+
+}
+
+.navbar-brand {
+    font-family: 'Lobster';
+}
+
+.hero-line {
+    width: 97%;
+}
+
+#cartas {
+    padding-top: 3%;
+    padding-bottom: 4%;
+}
+
+.end {
+    background-color: #373A3C;
+    font-family: 'Lobster';
+
+    ;
+}
+
+#contacto {
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-color: #DC3545;
+}
+
+.end {
+
+    padding-top: 2%;
+    padding-bottom: 2%;
+
+}
+
+.cambio-a-rojo {
+    color: red;
+}
